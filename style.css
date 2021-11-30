@@ -1,0 +1,13 @@
+html, body {
+  margin: 30;
+  padding: 0;
+  background: #b6ff3c;
+}
+.title, p{
+  text-align: center;
+  font-family: 'Russo One', sans-serif;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+}
